@@ -1,0 +1,43 @@
+
+
+.number-div {
+  width: 250px;
+}
+
+.number-div button{
+  float:left;
+  width:52px;
+  margin:5px;
+  padding:10px;
+  border-radius:5px;
+  text-align:center;
+  background-color: whitesmoke;
+}
+
+.clear{
+width:240px;
+float: inherit;
+background: whitesmoke;
+margin-top: 10px;
+padding:10px 17px;
+border-radius:5px;
+color: black;
+text-align:center;
+}
+
+.screen {
+  height: 40px;
+  width: 240px;
+  border-color: black;
+  border-radius: 5px;
+  border-style: double;
+  background-color: whitesmoke;
+}
+
+.main-div {
+  background-color: rgb(116, 116, 105);
+  height: 280px;
+  width: 250px;
+  border-radius: 5px;
+  border-style: double;
+}
